@@ -1,7 +1,7 @@
 
 # Atliq Grands Hospitality Analytics Project
 This project is part of data analytics bootcamp at "codebasics"
-## LIVE DASHBOARD LINK : https://app.powerbi.com/view?r=eyJrIjoiZDRkZjAwZmEtYmM3NC00MWNkLWE1NjYtM2RiNGQwYTQxYmVhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 
+## LIVE DASHBOARD LINK :https://app.powerbi.com/groups/bc124927-dbe3-4335-8478-57dc48e0b092/reports/36067fe0-4c04-4b33-8b2c-e50b2bfbd0f3/55563b1d63ca670c0077?experience=power-bi
 ## VIDEO PRESENTATION LINK: https://youtu.be/_XDDK4jd36k?si=oy4gN1_eF0fouC4B
 ## Overview
 
